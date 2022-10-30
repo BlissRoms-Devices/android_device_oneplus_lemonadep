@@ -17,7 +17,7 @@ $(call inherit-product, vendor/bliss/config/common_full_phone.mk)
 EXTRA_UDFPS_ANIMATIONS := true
 
 # Boot Animation
-TARGET_BOOT_ANIMATION_RES := 1440
+TARGET_BOOT_ANIMATION_RES := 1080
 
 PRODUCT_NAME := bliss_lemonadep
 PRODUCT_DEVICE := lemonadep
